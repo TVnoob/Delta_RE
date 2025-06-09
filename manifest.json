@@ -1,24 +1,24 @@
 {
   "format_version": 2,
   "header": {
-      "description": "Delta_0nigo_BEと依存関係があります。両方入ってない場合は依存関係が失われてますと出ます",
+      "description": "Delta_0nigo_BEと依存関係があります。",
       "name": "Delta_0nigo_RE",
-      "uuid": "92050887-c097-4999-b33a-4e7eb36a4316",
-      "version": [1, 0, 4],
+      "uuid": "8a1a1eaa-7b47-4378-a754-22f097fb4aae",
+      "version": [1, 0, 0],
       "min_engine_version": [ 1, 21, 81 ]
   },
   "modules": [
       {
           "description": "試験的です",
           "type": "resources",
-          "uuid": "fb60bcd1-6a6d-43ad-b4fb-1dff1183486c",
-          "version": [1, 0, 4]
+          "uuid": "f92ac30f-a0eb-4173-80a2-f7840a8f0bdd",
+          "version": [1, 0, 0]
       }
   ],
   "dependencies": [
       {
-        "uuid": "7ab749ce-64b2-40bd-870b-3f9a66b88f0d",
-        "version": [1,0,4]
+        "uuid": "6ce2f255-5cd1-4255-9ceb-1f623bf4a66b",
+        "version": [1,0,0]
       }
     ]
 }
