@@ -1,0 +1,13 @@
+{
+  "format_version": "1.12.0",
+  "render_controllers": {
+    "controller.render.large_item": {
+      "materials": [
+        {
+          "*": "material.default"
+        }
+      ],
+      "textures": ["Texture.sutaminamu"]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "resource_pack_name": "high_res_items",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "stick" : {"textures" : "textures/RP/items/pa7.png"},
+        "sutaminamu" : {"textures" : "textures/RP/items/pa5.png"},
+        "kesi": {"textures": "textures/RP/items/ana.png"},
+        "susystem": {"textures": "textures/RP/items/uitem.png"},
+        "vasystem": {"textures": "textures/RP/items/aduitem.png"},
+        "ec": {"textures": "textures/RP/items/wcpc.png"},
+        "onifuk": {"textures": "textures/RP/items/wcp.png"},
+        "aaa" : {"textures" : "textures/RP/items/cmd.png"},
+        "lib" : {"textures" : "textures/RP/items/cmd.png"},
+        "load" : {"textures" : "textures/RP/items/cmd.png"}
+    }
+}
