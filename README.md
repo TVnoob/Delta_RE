@@ -1,5 +1,5 @@
 # Delta_RE
-Create by Delta_conveyor(The only Developer)
+Create by Delta_conveyor(The only developer)
 
 # その他
 
