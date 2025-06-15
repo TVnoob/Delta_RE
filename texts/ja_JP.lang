@@ -9,3 +9,4 @@ item.additem:onifuku=鬼陣営判定装置(未使用)
 item.system:rcck=ルートチェスト作成キット
 item.system:rclib=ルートチェストステータス
 item.system:loadrc=ルートチェストローダー
+item.tile.tripwire_hook.name=§l§g解放の鍵
