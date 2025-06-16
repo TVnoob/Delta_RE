@@ -22,5 +22,5 @@ Create by Delta_conveyor(The only developer)
 - V1.0 コアシステム完成 
 
 
-# MEMO
-- develop version updated V1.3.2 (Not applicable)
+# ビヘイビアーパック
+- link: https://github.com/TVnoob/Delta_BE
