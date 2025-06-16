@@ -11,6 +11,8 @@ Create by Delta_conveyor(The only developer)
 
 ## 更新ログ
 
+- V1.3 banlistを追加対応
+
 - V1.2 牢屋機能復元対応 
 
 - V1.1 補助システム追加対応
