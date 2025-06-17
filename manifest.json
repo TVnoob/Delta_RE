@@ -4,7 +4,7 @@
       "description": "Reiya_0nigo_BEと依存関係があります。",
       "name": "Reiya_0nigo_RE(beta-1.4)",
       "uuid": "8a1a1eaa-7b47-4378-a754-22f097fb4aae",
-      "version": [1, 4, 0],
+      "version": [1, 4, 1],
       "min_engine_version": [ 1, 21, 81 ]
   },
   "modules": [
@@ -12,13 +12,13 @@
           "description": "Create by Delta_conveyor",
           "type": "resources",
           "uuid": "f92ac30f-a0eb-4173-80a2-f7840a8f0bdd",
-          "version": [1, 4, 0]
+          "version": [1, 4, 1]
       }
   ],
   "dependencies": [
       {
         "uuid": "6ce2f255-5cd1-4255-9ceb-1f623bf4a66b",
-        "version": [1,4,0]
+        "version": [1,4,1]
       }
     ]
 }
