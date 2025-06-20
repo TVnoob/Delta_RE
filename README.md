@@ -3,6 +3,8 @@
 - link: https://github.com/TVnoob/Delta_BE
 ## Developers
 - Delta_conveyor(The only developer)
+### special helper
+- えん(artist)
 # その他
 
 - 即席鬼ごっこアドオンと依存関係があります。
