@@ -1,4 +1,5 @@
 # Delta_RE
+# 無期限の開発休止が決定しました、更新頻度は限りなく低くなります。
 ### ビヘイビアーパック
 - link: https://github.com/TVnoob/Delta_BE
 ## Developers
