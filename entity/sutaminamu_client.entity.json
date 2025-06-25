@@ -3,22 +3,12 @@
   "minecraft:client_entity": {
     "description": {
       "identifier": "additem:sutaminamu_client",
-      "materials": {
-        "default": "entity_alphatest"
-      },
-      "textures": {
-        "sutaminamu": "textures/items/pa5"
-      },
-      "geometry": {
-        "default": "geometry.sutaminamu"
-      },
-      "animations": {
-        "hold": "animation.large_item.hold"
-      },
-      "scripts": {
-        "animate": ["hold"]
-      },
-      "render_controllers": ["controller.render.large_item"]
+      "materials": { "default": "entity_alphatest" },
+      "textures": { "sutaminamu": "textures/items/pa5" },
+      "geometry": { "default": "geometry.sutaminamu" },
+      "animations": { "hold": "animation.large_item.hold" },
+      "render_controllers": ["controller.render.large_item"],
+      "scripts": { "animate": ["hold"] }
     }
   }
 }
