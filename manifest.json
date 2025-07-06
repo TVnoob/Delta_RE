@@ -2,7 +2,7 @@
   "format_version": 2,
   "header": {
       "description": "即席鬼ごっこアドオンと依存関係があります。",
-      "name": "即席鬼ごっこアドオン_RE(Vα0.0.1)",
+      "name": "即席鬼ごっこアドオン_RE(α0.0.1)",
       "uuid": "8a1a1eaa-7b47-4378-a754-22f097fb4aae",
       "version": [0, 0, 1],
       "min_engine_version": [ 1, 21, 81 ]
