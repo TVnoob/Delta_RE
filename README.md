@@ -1,6 +1,5 @@
 # 即席鬼ごっこアドオン_RE
-### ビヘイビアーパック
-- link: https://github.com/TVnoob/Delta_BE
+### [ビヘイビアーパック](https://github.com/TVnoob/Delta_BE)
 ## Developers
 - Delta_conveyor(The only developer)
 ### special helper
